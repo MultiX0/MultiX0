@@ -5,10 +5,11 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://multix0.github.io/linktree/" title="LinkTree Profile"><img width="22" src="images/linktree.svg"> LinkTree</a>
-  </code>
+  <img src="images/avatar.jpeg" alt="Mohammed Hasan" style="width: 100px; height: 100px; border-radius: 50%;">
+  <br>
+  Mohammed Hasan
 </h5>
+
 <br>
 <p align="center">
   Hi, I'm Mohammed Hasan, a Flutter Developer with over 3 years of experience and a Full-Stack Developer.
@@ -17,7 +18,8 @@
   <br>
   💻 I specialize in JavaScript, Golang, Node.js, SQL, PostgreSQL, and Dart.
   <br>
-  📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a>
+  📫 How to reach me: <a href="https://multix0.github.io/linktree/">multix0.github.io/linktree</a>
+  <br>
   <br>
     <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=multix0&label=Profile%20Views&color=0&icon=5&pretty=false" />
@@ -60,7 +62,6 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=multix0&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
