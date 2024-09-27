@@ -26,7 +26,7 @@
 </a>
 </p>
 
-<hr>
+
 <h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 <br>
 <p align="center">
@@ -42,7 +42,7 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
-<hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
