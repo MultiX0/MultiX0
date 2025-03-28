@@ -61,9 +61,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MultiX0/MultiX0/output/snake.svg" alt="Snake animation" />
-
-###
