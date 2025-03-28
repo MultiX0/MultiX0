@@ -1,68 +1,23 @@
-<h1 align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;Mohammed+Hasan+here....;Nice+to+see+you!&center=true&size=25">
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Mohammed (MultiX)</h1>
+<h3 align="center">Full stack developrt</h3>
 
-<h5 align="center">
-  <img src="images/avatar.jpeg" alt="Mohammed Hasan" style="width: 100px; height: 100px; border-radius: 50%;">
-  <br>
-  Mohammed Hasan
-</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=multix0&label=Profile%20views&color=0e75b6&style=flat" alt="multix0" /> </p>
 
-<br>
-<p align="center">
-  Hi, I'm Mohammed Hasan, a Flutter Developer with over 3 years of experience and a Full-Stack Developer.
-  <br>
-  🔬 I'm currently studying Computer Science.
-  <br>
-  💻 I specialize in JavaScript, Golang, Node.js, SQL, PostgreSQL, and Dart.
-  <br>
-  📫 How to reach me: <a href="https://multix0.github.io/linktree/">multix0.github.io/linktree</a>
-  <br>
-  <br>
-    <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=multix0&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=multix0" alt="multix0" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohammed-hasan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-hasan-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/multix.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="multix.dev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/introvert_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="introvert_programmer" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
-<br>
-<p align="center">
-  <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
-  <code><img title="Dart" height="25" src="images/dart.png"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Golang" height="25" src="images/golang.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="SQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=multix0&show_icons=true&locale=en&layout=compact" alt="multix0" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=multix0&show_icons=true&locale=en" alt="multix0" /></p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/multix0/" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=multix0&theme=react&border=61dafb&hide_border=true" alt="Mohammed Hasan" />
-    </a>
-    <a href="https://github.com/multix0/" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=multix0&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/multix0/">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=multix0&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=multix0&" alt="multix0" /></p>
 
-<hr>
-</div>
